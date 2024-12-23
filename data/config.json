@@ -1,0 +1,16 @@
+{
+    "threads": 30,
+    "thread_retry_delay": 3.5,
+
+    "global_name": "",
+    "invite": "",
+
+    "captcha_key": "",
+    "captcha_provider": "",
+    "captcha_proxyless": false,
+
+    "discord_email_verification_attempts": 5,
+    "discord_email_verification_attempt_delay": 3,
+    "mailmask_search_attempts": 10,
+    "mailmask_search_attempt_delay": 2.5
+}
